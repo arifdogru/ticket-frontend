@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-### `demo address: https://ticket-arifdogru.herokuapp.com/`
+### `demo address: `https://ticket-arifdogru.herokuapp.com/
 
 In the project directory, you can run:
 
