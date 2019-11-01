@@ -11,7 +11,8 @@
     "react": "^16.11.0",
     "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0"
+    "react-scripts": "3.2.0",
+    "svgo": "1.3.0"
   },
   "scripts": {
     "cross:env": "npm i -g cross-env",
