@@ -3,7 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ### `demo address: `https://ticket-arifdogru.herokuapp.com/
-**Note: Backend service did not deployed yet!**
+### `*Note: Backend service did not deployed yet!**`
+
 In the project directory, you can run:
 
 ### `npm start`
