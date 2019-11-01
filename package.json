@@ -17,7 +17,7 @@
     "cross:env": "npm i -g cross-env",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "prod": "cross-env NODE_ENV=production serve -s build -p 3000",
+    "prod": "cross-env NODE_ENV=production serve -s build -p 4200",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
